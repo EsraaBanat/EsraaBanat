@@ -5,11 +5,11 @@
 <body>
 
 <br>
- <img  src="https://github-readme-stats.vercel.app/api?username=EsraaBanat&show_icons=true&theme=dark"width='500'/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=EsraaBanat&show_icons=true&theme=highcontrast"width='500'/>
 </a></div>
 <br>
 <br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaBanat&layout=compact&theme=dark&hide_border=true" alt="Farraj007" width='500'/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaBanat&theme=dark&hide_border=true" alt="Farraj007" width='500'/>
  <br>
 <br>
 <h3 align="left">🔧 Languages and Tools:</h3>
@@ -45,7 +45,8 @@
 <footer>
 <h3 >Lets Become Internet Friends:</h3>
 <div align="left">
-<p><a href="www.linkedin.com/in/esraa-banat-044283136" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Esraa Banat" height="30" width="40" /></a> <a href="esraa.bnt96@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Esraa Banat" height="30" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/esraa-banat-044283136/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Esraa Banat" height="30" width="40" /></a> <a href="mailto:esraa.bnt96@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Esraa Banat" height="30" width="40" /></a></p>
 </div>
+
 
 </footer>
