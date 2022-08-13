@@ -7,11 +7,11 @@
 <br>
  <img  src="https://github-readme-stats.vercel.app/api?username=EsraaBanat&show_icons=true&count_private=true&theme=highcontrast"width='500'/>
 </a></div>
-<br>
-<br>
+
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaBanat&theme=dark&hide_border=true" alt="Farraj007" width='500'/>
- <br>
-<br>
+
+
+
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
 <!--  HTML LOGO -->
