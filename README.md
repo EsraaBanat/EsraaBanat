@@ -48,5 +48,6 @@
 <p><a href="https://www.linkedin.com/in/esraa-banat-044283136/" target="blank"><img align="center" src="https://www.svgrepo.com/show/176736/linkedin-social-media.svg" alt="Esraa Banat" height="30" width="40" /></a> <a href="mailto:esraa.bnt96@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/49695/mail.svg" alt="Esraa Banat" height="30" width="40" /></a></p>
 </div>
 
-
+<strong>Everthing Here Made with :heart: and JavaScript</strong>
+ 
 </footer>
