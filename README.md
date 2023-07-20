@@ -1,5 +1,5 @@
 <header><h1 align="left">Hi , I'm Esraa Banat 🤝</h1>
-<h3 align="left">Full stack developer 💻,With Biomedical Engineering Background </h3></header>
+<h3 align="left">Full stack developer 💻 </h3></header>
 
 **Glad to see you here!** :star_struck: 
 <body>
